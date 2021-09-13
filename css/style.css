@@ -69,10 +69,16 @@ body {
   padding: 7px;
   color: white;
 }
+.buy:hover{
+  background-color: tomato;
+}
 .buy-now{
   border: 1px solid rgb(18, 212, 180);
   background-color: rgb(212, 63, 18);
   padding: 7px;
+}
+.buy-now:hover{
+  background-color: tomato;
 }
 .addCart{
   color: rgb(255, 255, 255);
