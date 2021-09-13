@@ -1,6 +1,7 @@
 body {
   overflow-x: hidden;
   font-family: "Montserrat", sans-serif;
+  box-sizing: border-box;
 }
 .search-field {
   border: none;
@@ -38,6 +39,7 @@ body {
 }
 .single-product {
   padding: 10px;
+  margin: 5px;
   transition: 0.6s;
   background-color: rgb(18, 212, 180);
 }
